@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhav Bhanot</h1>
-<h3 align="center">Aspiring to be a web developer</h3>
+<h3 align="center">Aspiring to be an ai developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhavbhanot&label=Profile%20views&color=0e75b6&style=flat" alt="abhavbhanot" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **machine learning**
 
 - 📫 How to reach me **abhavbhanot@gmail.com**
 
