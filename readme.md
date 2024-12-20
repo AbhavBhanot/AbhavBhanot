@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhavbhanot&label=Profile%20views&color=0e75b6&style=flat" alt="abhavbhanot" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently diving deep into **Machine Learning, Gen AI, RAG and Agentic Workflows**
 
-- 📫 How to reach me **abhavbhanot@gmail.com**
+- 📫 How to reach me **abhavbhanot28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
