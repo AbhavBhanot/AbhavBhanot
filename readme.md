@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abhav-bhanot-52ab2927a" target="blank"><img align="center" src="www.linkedin.com/in/abhav-bhanot-52ab2927a" alt="abhavbhanot" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abhav-bhanot-52ab2927a" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a9/LinkedIn_icon.svg" alt="abhavbhanot" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
