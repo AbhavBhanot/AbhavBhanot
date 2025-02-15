@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abhav-bhanot-52ab2927a" target="blank">
-    <img align="center" src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" height="30" width="40" />
+    <img align="center" src="[https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg](https://user-images.githubusercontent.com/54114888/130216764-13f6e26e-94af-4f9f-81c2-d1b4699e213b.png)" height="30" width="40" />
   </a>
 </p>
 
