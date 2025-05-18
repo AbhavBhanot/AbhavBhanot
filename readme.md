@@ -22,10 +22,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [**SQLGenius**](https://sqlgenius.vercel.app) — a natural language to SQL web app.
+- 🔭 I’m currently working on [**SQLGenius**](https://sqlgenius.vercel.app) - a natural language to SQL web app.
 - 🌱 I’m diving deep into **Generative AI, RAG, Multi-Chain Prompting (MCP), Agentic Workflows**, and **LLM App Evaluations**.
 - 🤝 I’m looking for help with **learning more about LLM App Evaluations**.
-- 📝 I regularly write articles on AI — check them out on my [LinkedIn](https://www.linkedin.com/in/abhav-bhanot-52ab2927a/).
+- 📝 I regularly write articles on AI - check them out on my [LinkedIn](https://www.linkedin.com/in/abhav-bhanot-52ab2927a/).
 - 💬 Always open to chatting about **anything AI-related**.
 - 📫 Reach me at: **abhavbhanot28@gmail.com**
 
