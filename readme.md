@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhav Bhanot</h1>
-<h3 align="center">An aspiring AI solutions developer from India. Currently working on experimentation, benchmarking Large Language Models, and documenting insights that support the developemnt of AI solutions.</h3>
+<h3 align="center">An aspiring AI solutions developer from India.</h3>
 <h4 align="center">Currently working on experimentation, benchmarking Large Language Models, and documenting insights that support the developemnt of AI solutions.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhavbhanot&label=Profile%20views&color=0e75b6&style=flat" alt="abhavbhanot" /> </p>
