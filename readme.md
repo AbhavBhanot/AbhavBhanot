@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhav Bhanot</h1>
-<h3 align="center">An aspiring AI Solutions Developer from India</h3>
+<h3 align="center">An aspiring AI Solutions Developer</h3>
 <h4 align="center">
   Currently focused on experimenting with and benchmarking Large Language Models (LLMs), and documenting insights that support the development of AI solutions.
 </h4>
